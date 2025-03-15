@@ -1,0 +1,1 @@
+## visualization of the function z(θ)=eiθ+eiθπz(θ)=eiθ+eiθπ, which creates a fascinating pattern due to the irrationality of π. This function traces a path in the complex plane, and because π is irrational, the pattern never repeats, creating a dense and intricate design.
